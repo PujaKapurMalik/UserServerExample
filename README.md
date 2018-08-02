@@ -1,5 +1,5 @@
 # UserServerExample
-Assignment for Kitu
+Assignment for Kitu Systems
 
 Methods
 GET /users
